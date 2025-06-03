@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+env/
+env*/
+.venv/
+.venv*/
+
+# Environment variables
+.env
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Your problem samples folder (optional)
+*_*/  # ignores folders like 1700_A/, 1800_B/, etc.
